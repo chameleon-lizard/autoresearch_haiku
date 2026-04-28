@@ -43,11 +43,11 @@
 ## Detailed TODO List
 
 ### Phase 1 TODO
-1. [ ] Create autoresearch/__init__.py
-2. [ ] Create autoresearch/paths.py with all config
-3. [ ] Create artifacts/__init__.py and artifacts/artifact.py
-4. [ ] Implement content hash computation
-5. [ ] Commit: "feat: Initial project structure with paths and artifact class"
+1. [x] Create autoresearch/__init__.py
+2. [x] Create autoresearch/paths.py with all config
+3. [x] Create artifacts/__init__.py and artifacts/artifact.py
+4. [x] Implement content hash computation
+5. [x] Commit: "feat: Initial project structure with paths and artifact class"
 
 ### Phase 2 TODO
 1. [ ] Create splitter/__init__.py and splitter/splitter.py
