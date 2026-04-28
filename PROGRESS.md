@@ -57,12 +57,12 @@
 5. [x] Commit: "feat: Added dataset splitter and cache-aware scorer"
 
 ### Phase 3 TODO
-1. [ ] Create stages/__init__.py and four stage modules
-2. [ ] Implement stage_a (diagnosis generalization)
-3. [ ] Implement stage_b (proposal generation with K siblings)
-4. [ ] Implement stage_c (selection logic)
-5. [ ] Implement stage_m (merge synthesis)
-6. [ ] Commit: "feat: Implemented four refiner stages (A/B/C/M)"
+1. [x] Create stages/__init__.py and four stage modules
+2. [x] Implement stage_a (diagnosis generalization)
+3. [x] Implement stage_b (proposal generation with K siblings)
+4. [x] Implement stage_c (selection logic)
+5. [x] Implement stage_m (merge synthesis)
+6. [x] Commit: "feat: Implemented four refiner stages (A/B/C/M)"
 
 ### Phase 4 TODO
 1. [ ] Create history/__init__.py and history/renderer.py
