@@ -6,11 +6,11 @@ Comparison of five implementations of the autoresearch loop, evaluated against
 
 | Directory | Verdict at a glance |
 |---|---|
-| [`codex-spark/`](codex-spark/) | Best documented; **does not import** — two blocker bugs |
-| [`gemma-31b-openrouter/`](gemma-31b-openrouter/) | Skeleton only — **does not import**; refiner stages stubbed with mock data |
-| [`qwen-27b-openrouter/`](qwen-27b-openrouter/) | **Runs**; 39 tests pass; medium cache-key bug; closest to ready |
-| [`qwen-27b-q4_k_m/`](qwen-27b-q4_k_m/) | **Runs**; complete features; **critical leakage bug** (test metrics shown to selector) |
-| [`haiku/`](haiku/) | **Runs**; complete CLI + thorough docs; scorer & Stage-A sampler stubbed; no tests |
+| [`codex-spark/`](https://github.com/chameleon-lizard/autoresearch_codex_spark) | Best documented; **does not import** — two blocker bugs |
+| [`gemma-31b-openrouter/`](https://github.com/chameleon-lizard/autoresearch_gemma_4_31b_openrouter) | Skeleton only — **does not import**; refiner stages stubbed with mock data |
+| [`qwen-27b-openrouter/`](https://github.com/chameleon-lizard/autoresearch_qwen_27b_openrouter) | **Runs**; 39 tests pass; medium cache-key bug; closest to ready |
+| [`qwen-27b-q4_k_m/`](https://github.com/chameleon-lizard/autoresearch_qwen_27b_q4_k_m) | **Runs**; complete features; **critical leakage bug** (test metrics shown to selector) |
+| [`haiku/`](https://github.com/chameleon-lizard/autoresearch_haiku) | **Runs**; complete CLI + thorough docs; scorer & Stage-A sampler stubbed; no tests |
 
 ---
 
