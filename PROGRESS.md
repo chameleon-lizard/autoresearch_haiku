@@ -50,11 +50,11 @@
 5. [x] Commit: "feat: Initial project structure with paths and artifact class"
 
 ### Phase 2 TODO
-1. [ ] Create splitter/__init__.py and splitter/splitter.py
-2. [ ] Implement stratified split with seed reproducibility
-3. [ ] Create scorer/__init__.py and scorer/scorer.py
-4. [ ] Implement cache-aware scoring and metrics
-5. [ ] Commit: "feat: Added dataset splitter and cache-aware scorer"
+1. [x] Create splitter/__init__.py and splitter/splitter.py
+2. [x] Implement stratified split with seed reproducibility
+3. [x] Create scorer/__init__.py and scorer/scorer.py
+4. [x] Implement cache-aware scoring and metrics
+5. [x] Commit: "feat: Added dataset splitter and cache-aware scorer"
 
 ### Phase 3 TODO
 1. [ ] Create stages/__init__.py and four stage modules
